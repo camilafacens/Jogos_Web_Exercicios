@@ -1,0 +1,35 @@
+Faça a descrição do projeto seguindo os pontos abaixos:
+• Uma descrição em uma linha do funcionamento do jogo;
+• Definição do seu gênero (se é de ação, ou RPG, por exemplo);
+• Suas mecânicas principais (um conjunto de regras);
+• Uma breve descrição da história do jogo;
+• Diferencial do jogo projetado em relação aos jogos da concorrência;
+• Sistema operacional ou plataforma em que o jogo funcionará (ou seja, se é para computador ou videogame);
+• O público alvo a ser alcançado;
+• Equipe necessária para o desenvolvimento e implementação;
+• Uma previsão de orçamento.
+Anexe o arquivo neste cartão.
+
+
+
+Ocean Savior
+
+-O objetivo é o personagem coletar os lixos espalhados pelo oceano afim de salvar a vida dos animais aquáticos.
+
+-O Ocean Savivor é um jogo de aventura educativo.
+
+-O jogador utilizará as setas para movimentação do personagem ou joystick (mobile). 
+
+-História --------
+
+-Diferencial: Implementação da IA 
+
+-Plataforma: Web e mobile
+
+-Público alvo: Crianças a partir de 5 anos
+
+-Camila: Game Designer
+ Jonathan: Arte, animação, sound designer
+ Wallace: Programação
+
+-Orçamento: R$10.000,00
