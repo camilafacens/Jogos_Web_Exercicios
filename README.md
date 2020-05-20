@@ -1,5 +1,7 @@
 # Jogos_Web_Exercicios
-[Aula 6](https://camilafacens.github.io/Jogos_Web_Exercicios/Aula%206/hello2.html)
+[Aula6.1](https://github.com/camilafacens/Jogos_Web_Exercicios/Aula%206/hello.html)
+
+[Aula 6.2](https://camilafacens.github.io/Jogos_Web_Exercicios/Aula%206/hello2.html)
 
 [Aula 7](https://camilafacens.github.io/Jogos_Web_Exercicios/Aula%207/hello2.html)
 
